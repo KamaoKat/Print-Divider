@@ -8,11 +8,11 @@ Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript,
 
 在你的Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Objective-C, Lua或Julia文件中轻松地打印一个分隔符。
 
-**Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
+**Homepage/主页**: [`https://www.xuangeaha.xyz/`](https://www.xuangeaha.xyz/)
 
-**Repository/仓库**: [`https://github.com/Xuangeaha/print-divider`](https://github.com/Xuangeaha/print-divider)
+**Repository/仓库**: [`https://github.com/KamaoKat/print-divider`](https://github.com/KamaoKat/print-divider)
 
-**Issues/问题**: [`https://github.com/Xuangeaha/print-divider/issues`](https://github.com/Xuangeaha/print-divider/issues)
+**Issues/问题**: [`https://github.com/KamaoKat/print-divider/issues`](https://github.com/KamaoKat/print-divider/issues)
 
 **Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.print-divider/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.print-divider/changelog)
 
@@ -20,7 +20,7 @@ Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript,
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider)
 
-**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
+**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
 
 # How To Use 使用方法
 
